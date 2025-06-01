@@ -1,5 +1,6 @@
-Record=TopLevelDocument|FileName=Atmega328PB.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=Atmega328PB.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=Atmega328PB.SchDoc|FileName=Buck Converter and BEC Systems.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=Atmega328PB.SchDoc|FileName=General Schematics of Design.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Atmega328PB.SchDoc|FileName=MosfetDrivers.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Atmega328PB.SchDoc|FileName=Stm32F103C8T6.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=Atmega328PB.SchDoc|FileName=Introduction.SchDoc|SheetNumber=1

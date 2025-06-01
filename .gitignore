@@ -1,0 +1,22 @@
+# Undo klasörü
+Undo/
+
+# Geçmiş klasörü
+History/
+
+# Önizleme klasörü
+__Previews/
+
+# Belirli cache dosyaları
+*.SchDocPreview
+*.PcbDocPreview
+
+# Geçici dosyalar ve yedekler
+*.Dat
+*.bak
+*.tmp
+*.$$$
+*.ldb
+*.log
+*.~SchDoc
+*.~PcbDoc
